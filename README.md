@@ -5,7 +5,7 @@ Team 2024
 | Position | Username           | Name               | Title                        | Rating   |
 |----------|--------------------|--------------------|------------------------------|----------|
 | 1        | [cat_ta4]          | Hugo Sebastián     | $${\color{green}Pupil}$$     | 1286     |
-| 2        | [AnnieLeonhart]    | Alex Atilio        | $${\color{gray}Newbie}$$	    | 1199     |
+| 2        | [AnnieLeonhart]    | Alex Atilio        | $${\color{green}Pupil}$$	    | 1217     |
 | 3        | [hori_josu]        | Josué              | $${\color{gray}Newbie}$$     |  998     |
 | 4        | [jorgektch]        | Jorge Jesús        | $${\color{gray}Newbie}$$	    |  967     |
 | 5        | [erick_alegre]     | Erick              | $${\color{gray}Newbie}$$	    |  930     |
