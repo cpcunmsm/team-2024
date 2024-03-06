@@ -28,5 +28,17 @@ Team 2024
 [Codeforces]: https://codeforces.com/contests
 
 ## Syllabus
-- **S01 - Viernes 09/02:** Asymptotic Analysis (Jorge Jesús)
-- **S02 - Viernes 16/02:** Standard Template Library (Luiz Ignacio)
+- **S01 - Viernes 09/02:** Analisis de algoritmos (Jorge Jesús)
+- **S02 - Viernes 16/02:** Programacion Greedy(Josue Carbajal)
+- **S03 - Viernes 23/02:** Arreglos vs Listas (Hugo Sebastián)
+- **S04 - Viernes 01/03:** Pilas y Colas (Laura Cecilia)
+- **S05 - Viernes 08/03:** Maps, Sets, Pairs ... (Jesus Gonzales)
+- **S06 - Viernes 15/03:** Teoria de Numeros (Alex Atilio)
+- **S07 - Viernes 22/03:** Teoria de Probabilidades y Combinatorias (Sebastian Ayala)
+- **S08 - Viernes 29/03:** Manejo de Bits (Josue)
+- **S09 - Viernes 05/04:** Manejo de Strings (Gianmarco Lavado)
+- **S010 - Viernes 12/04:** Busqueda Binaria y Two Pointers (Luiz Ignacio)
+- **S011 - Viernes 19/04:** Teoria de Arboles I (Davis Leonardo)
+- **S012 - Viernes 26/04:** Teoria de Arboles II (Erick Martin)
+- **S013 - Viernes 03/05:** Teoria de Arboles III (---)
+- **S014 - Viernes 10/05:** Programacion Dinamica (---)
