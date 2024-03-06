@@ -2,16 +2,21 @@
 Team 2024
 ## Members
 [Codeforces] ranking updated as of February 9th, 2024
-| Position | Username           | Name               | Title                        | Rating   |
-|----------|--------------------|--------------------|------------------------------|----------|
-| 1        | [cat_ta4]          | Hugo Sebastián     | $${\color{green}Pupil}$$     | 1286     |
-| 2        | [AnnieLeonhart]    | Alex Atilio        | $${\color{green}Pupil}$$	    | 1217     |
-| 3        | [hori_josu]        | Josué              | $${\color{gray}Newbie}$$     |  998     |
-| 4        | [jorgektch]        | Jorge Jesús        | $${\color{gray}Newbie}$$	    |  967     |
-| 5        | [erick_alegre]     | Erick              | $${\color{gray}Newbie}$$	    |  930     |
-| 6        | [Davis22]          | Davis Leonardo     | $${\color{gray}Newbie}$$	    |  889     |
-| 7        | [Luiz2002]         | Luiz Ignacio       | $${\color{gray}Newbie}$$     |  742     |
-| 8        | [LauraNotFound]    | Laura Cecilia      | $${\color{gray}Newbie}$$     |  665     |
+| Position | Username                | Name               | Title                        | Rating   |
+|----------|-------------------------|--------------------|------------------------------|----------|
+| 1        | [cat_ta4]               | Hugo Sebastián     | $${\color{green}Pupil}$$     |  1297    |
+| 2        | [AnnieLeonhart]         | Alex Atilio        | $${\color{green}Pupil}$$	   |  1244    |
+| 3        | [hori_josu]             | Josué              | $${\color{gray}Newbie}$$     |  998     |
+| 4        | [erick_alegre]          | Erick              | $${\color{gray}Newbie}$$	   |  987     |
+| 5        | [New_Naze]              | Gianmarco Lavado   | $${\color{gray}Newbie}$$     |  954     |
+| 6        | [Josuah19]              | Josue Carbajal     | $${\color{gray}Newbie}$$     |  942     |
+| 7        | [jorgektch]             | Jorge Jesús        | $${\color{gray}Newbie}$$	   |  941     |
+| 8        | [Davis22]               | Davis Leonardo     | $${\color{gray}Newbie}$$	   |  892     |
+| 9        | [sebastian_ayala_200]   | Sebastian Ayala    | $${\color{gray}Newbie}$$     |  788     |
+| 10       | [MBN1]                  | Jesus Gonzales     | $${\color{gray}Newbie}$$     |  774     |
+| 11       | [Luiz2002]              | Luiz Ignacio       | $${\color{gray}Newbie}$$     |  742     |
+| 12       | [LauraNotFound]         | Laura Cecilia      | $${\color{gray}Newbie}$$     |  670     |
+
 
 ![](https://geps.dev/progress/10.5)
 
@@ -24,6 +29,10 @@ Team 2024
 [erick_alegre]: https://codeforces.com/profile/erick_alegre
 [AnnieLeonhart]: https://codeforces.com/profile/AnnieLeonhart
 [hori_josu]: https://codeforces.com/profile/hori_josu
+[New_Naze]: https://codeforces.com/profile/New_Naze
+[Josuah19]: https://codeforces.com/profile/Josuah19
+[MBN1]: https://codeforces.com/profile/MBN1
+[sebastian_ayala_200]: https://codeforces.com/profile/sebastian_ayala_200
 
 [Codeforces]: https://codeforces.com/contests
 
