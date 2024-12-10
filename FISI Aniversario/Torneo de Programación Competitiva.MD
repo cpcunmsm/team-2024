@@ -1,6 +1,7 @@
-# Torneo de Programación Competitiva
+# Torneo de Programación Competitiva por el Aniversario de la FISI
 Creado por [Problema B](https://codeforces.com/profile/JorgeKtch)
-- [Problema A](https://codeforces.com/contest/1486/problem/A)
+- Problema A:
+  - [Enunciado](https://codeforces.com/contest/1486/problem/A)
 - [Problema B](https://codeforces.com/contest/638/problem/B)
 - [Problema C](https://codeforces.com/contest/476/problem/B)
 - [Problema D](https://codeforces.com/contest/1404/problem/B)
