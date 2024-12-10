@@ -1,5 +1,5 @@
 # Torneo de Programación Competitiva por el Aniversario de la FISI
-Creado por [Jorge Jesús](https://codeforces.com/profile/JorgeKtch)
+Creado por [Jorge Jesús](https://codeforces.com/profile/JorgeKtch).
 - Problema A:
   - [Enunciado](https://codeforces.com/contest/1486/problem/A)
   - [Solución](https://github.com/cpcunmsm/team-2024/blob/main/FISI%20Aniversario/A.cpp)
