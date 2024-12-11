@@ -3,7 +3,6 @@
 Creado por [Jorge Jesús (jorgektch)](https://codeforces.com/profile/JorgeKtch).
 | Problema | Enunciado | Solución |
 |----------|-----------|----------|
-| [cat_ta4](https://codeforces.com/profile/cat_ta4) | 03/10 |
 | A        | [A. Shifting Stacks                  ](https://codeforces.com/contest/1486/problem/A) | [Ver](https://github.com/cpcunmsm/team-2024/blob/main/FISI%20Aniversario/A.cpp)|
 | B        | [B. Making Genome in Berland         ](https://codeforces.com/contest/638/problem/B)  | [Ver](https://github.com/cpcunmsm/team-2024/blob/main/FISI%20Aniversario/B.cpp)|
 | C        | [B. Dreamoon and WiFi                ](https://codeforces.com/contest/476/problem/B)  | [Ver](https://github.com/cpcunmsm/team-2024/blob/main/FISI%20Aniversario/C.cpp)|
