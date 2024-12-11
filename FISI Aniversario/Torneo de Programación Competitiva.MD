@@ -2,6 +2,7 @@
 ## Problemas
 Creado por [Jorge Jesús (jorgektch)](https://codeforces.com/profile/JorgeKtch).
 | Problema | Enunciado | Solución |
+|----------|-----------|----------|
 | [cat_ta4](https://codeforces.com/profile/cat_ta4) | 03/10 |
 | A        | [A. Shifting Stacks                  ](https://codeforces.com/contest/1486/problem/A) | [Ver](https://github.com/cpcunmsm/team-2024/blob/main/FISI%20Aniversario/A.cpp)|
 | B        | [B. Making Genome in Berland         ](https://codeforces.com/contest/638/problem/B)  | [Ver](https://github.com/cpcunmsm/team-2024/blob/main/FISI%20Aniversario/B.cpp)|
@@ -15,7 +16,7 @@ Creado por [Jorge Jesús (jorgektch)](https://codeforces.com/profile/JorgeKtch).
 | J        | [I. Palindrome Pairs                 ](https://codeforces.com/contest/1045/problem/I) | [Ver](https://github.com/cpcunmsm/team-2024/blob/main/FISI%20Aniversario/J.cpp)|
 ## Resultados
 | Posición | Usuario  | Presguntas resueltas |
-|----------|----------|- ---------------------|
+|----------|----------|----------------------|
 | 1        | [cat_ta4       ](https://codeforces.com/profile/cat_ta4)        | 03/10 |
 | 2        | [HORI_JOSU     ](https://codeforces.com/profile/HORI_JOSU)      | 02/10 |
 | 3        | [Brayancito2024](https://codeforces.com/profile/Brayancito2024) | 00/10 |
